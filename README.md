@@ -1,5 +1,7 @@
 # Interactive intersection of two quads
 
+![Intersection](https://raw.githubusercontent.com/tembio/QuadsIntersection/master/Intersection.png)
+
 ## Run:
     python main.py
 
